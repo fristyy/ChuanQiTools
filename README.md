@@ -12,16 +12,15 @@
 * python版本3.10
 
 * 安装依赖模块
-
-  ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
-  ```
+  cmd中直接运行
+  \```
+  pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+  \```
 
 ## 快速上手
-
-直接运行
-
-```python yibuPackag.py
-```
+cmd中直接运行
+\```python yibuPackag.py
+\```
 ![示例图片](./images/image_1.png)
 ![示例图片](./images/image_2.png)
 
