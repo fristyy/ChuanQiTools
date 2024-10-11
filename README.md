@@ -22,6 +22,8 @@
 
 ```python yibuPackag.py
 ```
+![示例图片](./images/image_1.png)
+![示例图片](./images/image_2.png)
 
 ##联系方式
 QQ：QQ 2585150029
