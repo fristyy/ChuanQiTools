@@ -13,14 +13,15 @@
 
 * 安装依赖模块
   cmd中直接运行
-  \```
+  ```
   pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
-  \```
+  ```
 
 ## 快速上手
 cmd中直接运行
-\```python yibuPackag.py
-\```
+```
+python yibuPackag.py
+```
 ![示例图片](./images/image_1.png)
 ![示例图片](./images/image_2.png)
 
